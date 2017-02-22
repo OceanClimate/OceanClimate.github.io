@@ -55,8 +55,3 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 28 June     | Stephen                    |                    |
 | Wed 5 July      | David Marshall             | Laura              |
 | Wed 12 July     | Helen Johnson              |                    |
-| Wed 19 July     |                            |                    |
-| Wed 26 July     |                            |                    |
-| Wed 2 August    |                            |                    |
-| Wed 9 August    |                            |                    |
-| Wed 16 August   |                            |                    |
