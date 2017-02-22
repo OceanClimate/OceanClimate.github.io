@@ -9,3 +9,52 @@ If you have any queries or would like to change the schedule, the current organi
 * Chris MacMackin (christopher.macmackin@trinity.ox.ac.uk)
 
 The current schedule for future group meetings [can be found in this google sheet](https://docs.google.com/spreadsheets/d/11S_bHZrkATnQsYqUyf3dwCsAEZUEdZSv06rGa5GjDLI/edit#gid=0). This information will hopefully have it's own sub-section on the webpage soon. For now, the schedule can be found below.
+
+| DATE            | PRESENTER 1                | PRESENTER 2        |
+|-----------------|----------------------------|--------------------|
+| Wed 5 October   | Graeme                     |                    |
+| Wed 12 October  | Helen Johnson              |                    |
+| Wed 19 October  | Ali Mash (MIT)             |                    |
+| Wed 26 October  | Tom Bolton                 |                    |
+| Wed 2 November  | Liam Brannigan (Stockholm) |                    |
+| Wed 9 November  | Robert Fraser              |                    |
+| Wed 16 November | Joe                        |                    |
+| Wed 23 November | Geoff                      |                    |
+| Wed 30 November | Tomos                      | Tom Armitage (UCL) |
+| Wed 7 December  | Stephen                    |                    |
+| Wed 14 December | David Marshall             | Laura              |
+| Wed 21 December |                            |                    |
+| Wed 28 December |                            |                    |
+| Wed 4 January   |                            |                    |
+| Wed 11 January  | Laure                      |                    |
+| Wed 18 January  | Jamie                      | Aneesh             |
+| Wed 25 January  | Adam Sykulski (UCL)        |                    |
+| Wed 1 February  | Fenwick                    | Donata Giglio      |
+| Wed 8 February  | Chris (MacMakin)           | Chris (O'Reilly)   |
+| Wed 15 February | Andrew                     |                    |
+| Wed 22 February | Stephan                    | Graeme             |
+| Wed 1 March     | Lesley Gray                |                    |
+| Wed 8 March     | David Marshall             | Robert Fraser      |
+| Wed 15 March    | Joe                        |                    |
+| Wed 22 March    | Geoff                      | Tomos              |
+| Wed 29 March    | Stephen                    |                    |
+| Wed 5 April     | Tom Bolton                 | Laura              |
+| Wed 12 April    | Helen Johnson              |                    |
+| Wed 19 April    |                            |                    |
+| Wed 26 April    | Laure                      |                    |
+| Wed 3 May       | Fenwick                    |                    |
+| Wed 10 May      | Chris M                    | Chris O            |
+| Wed 17 May      | Andrew                     |                    |
+| Wed 24 May      | Joakim                     | Graeme             |
+| Wed 31 May      |                            |                    |
+| Wed 7 June      | Tom Bolton                 | Robert Fraser      |
+| Wed 14 June     | Joe                        | Jamie              |
+| Wed 21 June     | Geoff                      | Tomos              |
+| Wed 28 June     | Stephen                    |                    |
+| Wed 5 July      | David Marshall             | Laura              |
+| Wed 12 July     | Helen Johnson              |                    |
+| Wed 19 July     |                            |                    |
+| Wed 26 July     |                            |                    |
+| Wed 2 August    |                            |                    |
+| Wed 9 August    |                            |                    |
+| Wed 16 August   |                            |                    |
