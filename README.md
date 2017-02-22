@@ -8,7 +8,9 @@ If you have any queries or would like to change the schedule, the current organi
 * Jamie Parkinson (james.parkinson@jesus.ox.ac.uk)
 * Chris MacMackin (christopher.macmackin@trinity.ox.ac.uk)
 
-The current schedule for future group meetings [can be found in this google sheet](https://docs.google.com/spreadsheets/d/11S_bHZrkATnQsYqUyf3dwCsAEZUEdZSv06rGa5GjDLI/edit#gid=0). This information will hopefully have it's own sub-section on the webpage soon. For now, the schedule can be found below.
+The current schedule for future group meetings [can be found in this google sheet](https://docs.google.com/spreadsheets/d/11S_bHZrkATnQsYqUyf3dwCsAEZUEdZSv06rGa5GjDLI/edit#gid=0). This information will hopefully have it's own sub-section on the webpage soon. 
+
+For now, the speakers for the 2016/17 academic year can be found below.
 
 | DATE            | PRESENTER 1                | PRESENTER 2        |
 |-----------------|----------------------------|--------------------|
