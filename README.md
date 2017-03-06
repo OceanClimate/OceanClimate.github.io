@@ -48,8 +48,8 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 10 May      | Chris M                    | Chris O            |
 | Wed 17 May      |                            |                    |
 | Wed 24 May      | Joakim                     | Graeme             |
-| Wed 31 May      |                            |                    |
-| Wed 7 June      | Tom Bolton                 | Robert Fraser      |
+| Wed 31 May      | Tom Bolton                 |                    |
+| Wed 7 June      | Robert Fraser              |                    |
 | Wed 14 June     | Joe                        | Jamie              |
 | Wed 21 June     | Geoff                      | Tomos              |
 | Wed 28 June     | Stephen                    |                    |
