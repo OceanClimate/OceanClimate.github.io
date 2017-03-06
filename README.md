@@ -36,8 +36,8 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 15 February | Andrew                     |                    |
 | Wed 22 February | Stephan                    | Graeme             |
 | Wed 1 March     | Lesley Gray                |                    |
-| Wed 8 March     | David Marshall             | Robert Fraser      |
-| Wed 15 March    | Joe                        |                    |
+| Wed 8 March     | David Marshall             |                    |
+| Wed 15 March    | Joe                        | Robert Fraser      |
 | Wed 22 March    | Geoff                      | Tomos              |
 | Wed 29 March    | Stephen                    |                    |
 | Wed 5 April     | Tom Bolton                 | Laura              |
@@ -46,7 +46,7 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 26 April    | Laure                      |                    |
 | Wed 3 May       | Fenwick                    |                    |
 | Wed 10 May      | Chris M                    | Chris O            |
-| Wed 17 May      | Andrew                     |                    |
+| Wed 17 May      |                            |                    |
 | Wed 24 May      | Joakim                     | Graeme             |
 | Wed 31 May      |                            |                    |
 | Wed 7 June      | Tom Bolton                 | Robert Fraser      |
