@@ -15,7 +15,7 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | DATE         | PRESENTER 1    | PRESENTER 2   |
 |--------------|----------------|---------------|
 | Wed 22 March | Geoff          | Tomos         |
-| Wed 29 March | Stephen        |               |
+| Wed 29 March | Joe            |               |
 | Wed 5 April  | Tom Bolton     | Robert Fraser |
 | Wed 12 April | Helen Johnson  | Laura         |
 | Wed 19 April | Ke             | Claudia       |
