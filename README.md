@@ -28,6 +28,6 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 7 June   | Tom Bolton     | Robert Fraser |
 | Wed 14 June  | Joe            | Jamie         |
 | Wed 21 June  | Geoff          | Tomos         |
-| Wed 28 June  | Stephen        |               |
+| Wed 28 June  |                |               |
 | Wed 5 July   | David Marshall | Laura         |
 | Wed 12 July  | Helen Johnson  |               |
