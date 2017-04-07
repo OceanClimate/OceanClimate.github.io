@@ -18,8 +18,8 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 29 March | Joe            |               |
 | Wed 5 April  | Tom Bolton     | Robert Fraser |
 | Wed 12 April | Helen Johnson  | Laura         |
-| Wed 19 April | Ke             | Claudia       |
-| Wed 26 April | Laure          |               |
+| Wed 19 April | Claudia        |               |
+| Wed 26 April | Laure          | Ke            |
 | Wed 3 May    | Fenwick        |               |
 | Wed 10 May   | Chris M        | Chris O       |
 | Wed 17 May   | Sam            | Kevin         |
