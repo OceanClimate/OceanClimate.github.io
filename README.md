@@ -20,8 +20,8 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 12 April | Helen Johnson  | Laura         |
 | Wed 19 April | Claudia        |               |
 | Wed 26 April | Laure          | Ke            |
-| Wed 3 May    | Fenwick        |               |
-| Wed 10 May   | Chris M        | Chris O       |
+| Wed 3 May    | Fenwick        | Mads          |
+| Wed 10 May\* | Chris M        | Chris O       |
 | Wed 17 May   | Sam            | Kevin         |
 | Wed 24 May   | Joakim         | Graeme        |
 | Wed 31 May   | Geoff          | Milan         |
@@ -31,3 +31,5 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 28 June  |                |               |
 | Wed 5 July   | David Marshall | Laura         |
 | Wed 12 July  | Helen Johnson  |               |
+
+\*In Dobson room at AOPP.
