@@ -24,7 +24,7 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 10 May\* | Chris M        | Chris O       |
 | Wed 17 May   | Sam            | Kevin         |
 | Wed 24 May   | Joakim         | Graeme        |
-| Wed 31 May   | Geoff          | Milan         |
+| Wed 31 May   | Keaton Burns   | Milan         |
 | Wed 7 June   | Tom Bolton     | Robert Fraser |
 | Wed 14 June  | Joe            | Jamie         |
 | Wed 21 June  | Geoff          | Tomos         |
