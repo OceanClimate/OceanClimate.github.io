@@ -28,8 +28,8 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 7 June   | Tom Bolton     | Robert Fraser |
 | Wed 14 June  | Joe            | Jamie         |
 | Wed 21 June  | Tomos          |               |
-| Wed 28 June  |                |               |
-| Wed 5 July   | David Marshall | Geoff         |
+| Wed 28 June  | David Marshall |               |
+| Wed 5 July   | Geoff          |               |
 | Wed 12 July  | Helen Johnson  |               |
 
 \*In Dobson room at AOPP.
