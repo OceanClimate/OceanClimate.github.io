@@ -32,5 +32,5 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 5 July   | Geoff          |               |
 | Wed 12 July  | Helen Johnson  |               |
 
-\*In Dobson room at AOPP.
-\*\* 12:30 start.
+\*In Dobson room at AOPP.  
+\*\*12:30 start.
