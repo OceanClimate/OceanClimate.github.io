@@ -26,7 +26,7 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 24 May\*\*| Gael          |               |
 | Wed 31 May   | Keaton Burns   | Milan         |
 | Wed 7 June   | Tom Bolton     |               |
-| Wed 14 June  | Joe            | Jamie         |
+| Wed 14 June  | Andrew         | Jamie         |
 | Wed 21 June  | Tomos          | Joakim        |
 | Wed 28 June  | David Marshall | Graeme        |
 | Wed 5 July   | Geoff          | Yavor         |
