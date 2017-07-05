@@ -29,9 +29,9 @@ For now, the speakers for the 2016/17 academic year can be found below.
 | Wed 14 June  | Andrew         | Jamie         |
 | Wed 21 June  | Tomos          | Joakim        |
 | Wed 28 June  | David Marshall | Graeme        |
-| Wed 5 July   | Geoff          | Yavor         |
+| Wed 5 July   | Yavor          |               |
 | Wed 12 July  | Robert Fraser  |               |
-| Wed 19 July  | Regina         |               |
+| Wed 19 July  | Regina         | Geoff         |
 
 \*In Dobson room at AOPP.  
 \*\*12:30 start.
