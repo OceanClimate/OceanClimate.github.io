@@ -17,8 +17,8 @@ For now, the speakers for the 2017 Michaelmas term can be found below.
 | Wed 11 October | Helen             |               |
 | Wed 18 October | Andrew               | Kevin         |
 | Wed 25 October |  Tom              | Claudia       |
-| Wed 1 November | Jamie             | Ke            |
-| Wed 8 November | Robert            | Graeme        |
+| Wed 1 November | Graeme             | Ke            |
+| Wed 8 November |    Paola Cessi (Scrips)         |
 | Wed 15 November| Srikanth          | Ali        |
 | Wed 22 November| Geoff             | Yavor         |
 | Wed 29 November| Sam               | Chris M       |
