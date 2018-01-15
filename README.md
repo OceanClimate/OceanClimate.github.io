@@ -23,7 +23,7 @@ For now, the speakers for the 2017 Michaelmas term can be found below.
 | Wed 7 March| Ali Mashayek         | Sam Cornish         |
 | Wed 14 March| Chris MacMackin               | Fenwick Cooper       |
 | Wed 21 March | Chris O'Reilly           | Tom Bolton      |
-| Wed 28 March| Clement Vic             |          |
+| Wed 28 March| Clement Vic (NOCS)           |          |
 
 
 \*In Dobson room at AOPP.  
