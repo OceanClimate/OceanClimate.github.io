@@ -13,17 +13,17 @@ For now, the speakers for the 2017 Michaelmas term can be found below.
 
 | DATE         | PRESENTER 1    | PRESENTER 2   |
 |----------------|-------------------|---------------|
-| Wed 4 October  | Stephanie Waterman|               |
-| Wed 11 October | Helen             |               |
-| Wed 18 October | Kevin             |               |
-| Wed 25 October |  Andrew           |               |
-| Wed 1 November | Graeme            | Julian            |
-| Wed 8 November |    Paola Cessi (Scrips) |         |
-| Wed 15 November| Srikanth          | Ali           |
-| Wed 22 November| Geoff             | Yavor         |
-| Wed 29 November| Sam               | Chris M       |
-| Wed 6 December | Fenwick           | Chris O       |
-| Wed 13 December| David             | Laura         |
+| Wed 17 January  |  Jamie Parkinson| Jesse Cusack (NOCS)            |
+| Wed 24 January | Kevin Thielen     | Ke Zhao          |
+| Wed 31 January | Julian Mak             |  Andrew Wells              |
+| Wed 7 February |  Laura Cimoli           | Claudia Jones               |
+| Wed 14 February | Ocean Sciences (No Meeting)            |             |
+| Wed 21 February |    Srikanth Toppaladoddi |  Yavor Kostov        |
+| Wed 28 February| David Marshall          | Helen Johnson           |
+| Wed 7 March| Ali Mashayek         | Sam Cornish         |
+| Wed 14 March| Chris MacMackin               | Fenwick Cooper       |
+| Wed 21 March | Chris O'Reilly           | Tom Bolton      |
+| Wed 28 March| Clement Vic             |          |
 
 
 \*In Dobson room at AOPP.  
