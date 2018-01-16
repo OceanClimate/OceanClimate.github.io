@@ -14,7 +14,7 @@ For now, the speakers for the 2017 Michaelmas term can be found below.
 | DATE         | PRESENTER 1    | PRESENTER 2   |
 |----------------|-------------------|---------------|
 | Wed 17 January  |  Jamie Parkinson| Jesse Cusack (NOCS)            |
-| Wed 24 January | Kevin Thielen     | Ke Zhao          |
+| Wed 24 January* | Kevin Thielen     | Ke Zhao          |
 | Wed 31 January | Julian Mak             |  Andrew Wells              |
 | Wed 7 February |  Laura Cimoli           | Claudia Jones               |
 | Wed 14 February | Ocean Sciences (No Meeting)            |             |
@@ -26,5 +26,4 @@ For now, the speakers for the 2017 Michaelmas term can be found below.
 | Wed 28 March| Clement Vic (NOCS)           |          |
 
 
-\*In Dobson room at AOPP.  
-\*\*12:30 start.
+\*In Seminar room 1 in Earth Sciences.  
