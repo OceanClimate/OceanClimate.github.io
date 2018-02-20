@@ -18,9 +18,9 @@ For now, the speakers for the 2017 Michaelmas term can be found below.
 | Wed 31 January | Julian Mak             |  Andrew Wells              |
 | Wed 7 February |  Laura Cimoli           | Claudia Jones               |
 | Wed 14 February | Ocean Sciences (No Meeting)            |             |
-| Wed 21 February |    Srikanth Toppaladoddi |  Yavor Kostov        |
+| Wed 21 February |    ---- |  ----       |
 | Wed 28 February| David Marshall          | Helen Johnson           |
-| Wed 7 March| Ali Mashayek         | Sam Cornish         |
+| Wed 7 March| Yavor Kostov         | Sam Cornish         |
 | Wed 14 March| Chris MacMackin               | Fenwick Cooper       |
 | Wed 21 March | Chris O'Reilly           | Tom Bolton      |
 | Wed 28 March| Clement Vic (NOCS)           |          |
