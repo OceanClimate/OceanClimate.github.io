@@ -13,17 +13,18 @@ For now, the speakers for the 2017 Michaelmas term can be found below.
 
 | DATE         | PRESENTER 1    | PRESENTER 2   |
 |----------------|-------------------|---------------|
-| Wed 17 January  |  Jamie Parkinson| Jesse Cusack (NOCS)            |
-| Wed 24 January* | Kevin Thielen     | Ke Zhao          |
-| Wed 31 January | Julian Mak             |  Andrew Wells              |
-| Wed 7 February |  Laura Cimoli           | Claudia Jones               |
-| Wed 14 February | Ocean Sciences (No Meeting)            |             |
-| Wed 21 February |    ---- |  ----       |
-| Wed 28 February| David Marshall          | Yavor Kostov            |
-| Wed 7 March|  Helen Johnson        | Sam Cornish         |
-| Wed 14 March**| -----               | Fenwick Cooper       |
-| Wed 21 March | Chris O'Reilly           | Tom Bolton      |
-| Wed 28 March| Clement Vic (NOC)           |    Alberto Naveira-Garabato (NOC)       |
+| Wed 18 April  |  Laura Gillard     |            |
+| Wed 25 April  | Claudia Jones      | Chris MacMackin          |
+| Wed 2 May | Andrew Wells           |  Srikanth Toppaladoddi              |
+| Wed 9 May |  Chris O'Reilly        | Ke Zhao               |
+| Wed 16 May | Julian Mak            |     Vincent McFarlane (U-Alberta)        |
+| Wed 23 May |    Ali Mayshayek      | David Marshall
+| Wed 30 May| Tomos David            | Laure Zanna            |
+| Wed 6 June|  Tomas Jonathan        | Fenwick Cooper         |
+| Wed 13 June| Adam Stanway        |       |
+| Wed 20 June | Tom Bolton           | Jamie Parkinson      |
+| Wed 27 June| Yavor Kostov          |    Sam Cornish       |
+| Wed 4th July| Agatha de Boer (Stockholm University)       |           |
 
 
 \*In Seminar room 1 in Earth Sciences. 
