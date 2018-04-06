@@ -21,7 +21,7 @@ For now, the speakers for the 2017 Michaelmas term can be found below.
 | Wed 23 May |    Ali Mayshayek      | David Marshall
 | Wed 30 May| Tomos David            | Laure Zanna            |
 | Wed 6 June|  Tomas Jonathan        | Fenwick Cooper         |
-| Wed 13 June| Adam Stanway        |       |
+| Wed 13 June|   Sophia Ashby      |   Adam Stanway    |
 | Wed 20 June | Tom Bolton           | Jamie Parkinson      |
 | Wed 27 June| Yavor Kostov          |    Sam Cornish       |
 | Wed 4th July| Agatha de Boer (Stockholm University)       |           |
